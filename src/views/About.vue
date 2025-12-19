@@ -38,7 +38,7 @@
             <p class="text-lg text-gray-200 leading-relaxed mb-6">
               Saya adalah seorang
               <span class="font-semibold text-blue-300">developer muda</span>
-              dan juga seorang <span class="font-semibold text-blue-300">UI/UX Designer muda</span>yang berdedikasi untuk menciptakan solusi digital inovatif melalui
+              dan juga seorang <span class="font-semibold text-blue-300">UI/UX Designer muda </span>yang berdedikasi untuk menciptakan solusi digital inovatif melalui
               <strong class="text-white">Full Stack Development</strong>. Saya
               percaya bahwa teknologi bukan sekadar baris kode, melainkan
               jembatan untuk mengubah ide kreatif menjadi antarmuka pengguna
